@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel Ahenkorah! <br/><a href="https://github.com/danieluptop">Software Engineering Graduate</a>, <a href="https://www.linkedin.com/in/daniel-ahenkorah-6b101122a/">Tech Enthusiast</a>, <a href="https://www.linkedin.com/in/daniel-ahenkorah-6b101122a/">Cross-cultural Learner</a></h1>
 
-<h2>👨‍💻 Personal Summary:</h2>
+<h2>👔 Personal Summary:</h2>
 
 - <b>Who is Daniel?</b>
   - Here's a little about me! I'm a passionate and goal-driven Software Engineering graduate. I thrive at the intersection of software innovation, systems design, and impactful tech solutions, with a solid foundation in application development and a curiosity that keeps me reaching for more.
