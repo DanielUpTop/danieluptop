@@ -19,6 +19,9 @@
 - <b>Car-sharing Web Application (Carpool Concept)</b>
   - ["Car-Share" Web App](https://github.com/DanielUpTop/car-sharing-web-app)
 
+- <b>Brute Force Log-in Detection</b>
+  - [Real Life SOC Investigation Project](https://github.com/DanielUpTop/brute-force-soc-investigation)
+
     
 <h2> 🤳 Connect with me:</h2>
 
